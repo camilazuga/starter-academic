@@ -36,8 +36,6 @@ date_format = "Jan 2006"
   Maestría en Ciencias Cognitivas
   * Neurociencia cognitiva y computacional
   
-  
-  
   """
 
 [[experience]]
