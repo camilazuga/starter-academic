@@ -18,27 +18,44 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Docente"
+  company = "Universidad de la República"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Montevideo"
+  date_start = "2012-03-01"
   date_end = ""
   description = """
-  Responsibilities include:
+  Enseñanza:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  Licenciatura en Psicología
+
+  * Métodos y técnicas cuantitativas
+  * Herramientas para el Trabajo Intelectual
+  * Estudio de la lectura y sus dificultades
+  
+  Maestría en Ciencias Cognitivas
+  * Neurociencia cognitiva y computacional
+  
+  
+  
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Docente"
+  company = "Universidad de la República"
+#  company_url = ""
+  location = "Montevideo"
+  date_start = "2010-08-01"
+  date_end = "2012-08-31"
+  description = """Licenciatura en Biotecnología."""
+
+[[experience]]
+  title = "Docente"
+  company = "Universidad ORT"
+#  company_url = ""
+  location = "Montevideo"
+  date_start = "2010-08-01"
+  date_end = "2012-08-31"
+  description = """Licenciatura en Biotecnología."""
 
 +++
